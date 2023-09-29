@@ -1,8 +1,23 @@
-# React + Vite
+To run the project 
+1. Download and extract the zip file
+2. Type the command "npm install" to install the node modules
+3. Type the command "npm run dev" to start the application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this application is redux is used for state management and to persist the data .
 
-Currently, two official plugins are available:
+Front End Deployed URL 
+https://joshua-zikra-bytes.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Backend Repository
+https://github.com/R-Joshua-Sujith/zikraBytes-Backend.git
+
+Backend Deployed URL
+https://joshua-zikrabytes-assignment.onrender.com/
+
+API POST request to store file data in MongoDB : 
+https://joshua-zikrabytes-assignment.onrender.com/store-data
+
+In the request body parameters to be passed are : fileName and dataArray
+
+Example : 
+![zikra](https://github.com/R-Joshua-Sujith/zikraBytes-frontend/assets/127508523/1e0bc512-cc28-4755-853b-07b6c3fa3ddf)

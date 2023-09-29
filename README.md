@@ -3,7 +3,7 @@ To run the project
 2. Type the command "npm install" to install the node modules
 3. Type the command "npm run dev" to start the application
 
-In this application is redux is used for state management and to persist the data .
+In this application redux is used for state management and to persist the data .
 
 Front End Deployed URL 
 https://joshua-zikra-bytes.netlify.app/
